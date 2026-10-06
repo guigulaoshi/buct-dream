@@ -1,0 +1,46 @@
+又见北化 · 金色校园
+Three.js 0.180.0 — MIT. See licenses/THREE-LICENSE.txt.
+Textures: grass_ground, asphalt_02, concrete_floor_02 — Poly Haven, CC0 (https://polyhaven.com/license).
+Layout reference: Beijing University of Chemical Technology official East Campus map, published 2022-01-06 (https://gcsxy.buct.edu.cn/2022/0106/c14218a195282/page.htm).
+Buildings were visually referenced from university photographs and modeled approximately. No survey accuracy is claimed. NPC dialogue and campus notices are fictional. No private photographs/videos are included in this distribution.
+
+Mao statue: "Mao Zhedong" by Moøkan (@mookan), CC BY 4.0.
+Source: https://sketchfab.com/3d-models/mao-zhedong-7adef70c9e5c46c38da5b6c4c52e7995
+License: https://creativecommons.org/licenses/by/4.0/
+Retrieved from the public Objaverse archive (Allen Institute for AI).
+Changes: rescaled, placed on an authored campus-style pedestal, ceramic color replaced with pale stone material; scan normal detail retained.
+This is a pose-matched substitute ceramic scan, NOT a scan of the BUCT monument.
+
+Characters: VRoid Project official legacy HairSample_Male, Base_Male and Base_Female, CC0 as recorded in the original VRM metadata.
+https://hub.vroid.com/
+Modified for this game.
+NPC hairstyles: Quaternius Universal Base Characters, CC0.
+https://quaternius.com/packs/universalbasecharacters.html
+Walk/run animations: Mixamo, for use within this game.
+VRM runtime: @pixiv/three-vrm 3.4.2, MIT; see licenses/THREE-VRM-LICENSE.txt.
+
+Central trees: Tree Small 02 by Rico Cilliers / Poly Haven, CC0. 
+https://polyhaven.com/a/tree_small_02
+Sunset environment: Rosendal Park Sunset (Pure Sky), Poly Haven, CC0.
+https://polyhaven.com/a/rosendal_park_sunset_puresky
+
+
+
+East Campus green garden, Mother School Light sculpture, wisteria pergola and revised Yifu Library: original photo-based procedural models, approximate dimensions. References: BUCT school construction gallery (https://xxjsb.buct.edu.cn/xyfg/list.htm), library photographs (https://library.buct.edu.cn/2020/0108/c7551a88178/page.htm), BUCT campus gallery, and the landscape designer's East Campus renovation article (https://www.archina.com/index.php?a=show&g=works&id=8237&m=index). Reference photographs are not distributed as assets.
+
+Blue track / blue stand reference: BUCT construction office, East Campus 2024 renovation, https://xxjsb.buct.edu.cn/2024/1022/c13509a199632/page.htm . Dormitory component reference: official 2020 energy renovation notice, https://xxgk.buct.edu.cn/2020/0429/c2761a125860/page.htm . No additional third-party model or texture assets are redistributed.
+
+Campus outline data: © OpenStreetMap contributors, Open Database License (ODbL 1.0). https://www.openstreetmap.org/copyright
+Source ways: 993015147 (main), 673288080 (administration), 993015146 (inorganic). Derived axis-aligned simplified outlines; not a surveyed campus plan.
+Building dimensions and unphotographed details are approximate. Reference photo archives are not redistributed.
+
+御剑飞行素材 / Sword flight assets
+宝剑：VVayToyek — Chinese Sword Pack 1 - Free，剑 1。
+https://vvaytoyek.itch.io/chinese-sword-pack-1-free
+作者标注 CC0。
+滑板动作：Carnegie Mellon University Graphics Lab Motion Capture Database，subject 134，134_02 Go Forward、134_05 Pump Jump。
+https://mocap.cs.cmu.edu/search.php?subjectnumber=134
+原始动作捕捉数据可免费用于所有用途。BVH 转换版来源：
+https://github.com/adventuring/mocap/tree/master/CMU/134.Skateboard-Motions
+转换版 MIT 许可见 assets/models/anime/CMU-MIRROR-LICENSE.txt。
+

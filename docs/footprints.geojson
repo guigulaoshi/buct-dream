@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "主教楼",
+        "source_way": "993015147",
+        "license": "ODbL-1.0",
+        "scene_x": 0,
+        "scene_z": 133,
+        "width_m": 97,
+        "depth_m": 19,
+        "note": "Approximate simplified scene footprint; not a surveyed building polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.41466736760036,
+              39.96900803956162
+            ],
+            [
+              116.41580433239962,
+              39.96900803956162
+            ],
+            [
+              116.41580433239962,
+              39.96883736043838
+            ],
+            [
+              116.41466736760036,
+              39.96883736043838
+            ],
+            [
+              116.41466736760036,
+              39.96900803956162
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "行政楼",
+        "source_way": "673288080",
+        "license": "ODbL-1.0",
+        "scene_x": -74,
+        "scene_z": 157.5,
+        "width_m": 20,
+        "depth_m": 45,
+        "note": "Approximate simplified scene footprint; not a surveyed building polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.41425126192641,
+              39.9689047337765
+            ],
+            [
+              116.41448568765821,
+              39.9689047337765
+            ],
+            [
+              116.41448568765821,
+              39.968500493747754
+            ],
+            [
+              116.41425126192641,
+              39.968500493747754
+            ],
+            [
+              116.41425126192641,
+              39.9689047337765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "行政楼南翼",
+        "source_way": "673288080",
+        "license": "ODbL-1.0",
+        "scene_x": -108.5,
+        "scene_z": 170,
+        "width_m": 49,
+        "depth_m": 20,
+        "note": "Approximate simplified scene footprint; not a surveyed building polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.41367691888348,
+              39.96868015598275
+            ],
+            [
+              116.41425126192641,
+              39.96868015598275
+            ],
+            [
+              116.41425126192641,
+              39.968500493747754
+            ],
+            [
+              116.41367691888348,
+              39.968500493747754
+            ],
+            [
+              116.41367691888348,
+              39.96868015598275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "无机楼",
+        "source_way": "993015146",
+        "license": "ODbL-1.0",
+        "scene_x": 71,
+        "scene_z": 152.5,
+        "width_m": 18,
+        "depth_m": 43,
+        "note": "Approximate simplified scene footprint; not a surveyed building polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.41596256976858,
+              39.9689406662235
+            ],
+            [
+              116.4161735529272,
+              39.9689406662235
+            ],
+            [
+              116.4161735529272,
+              39.968554392418255
+            ],
+            [
+              116.41596256976858,
+              39.968554392418255
+            ],
+            [
+              116.41596256976858,
+              39.9689406662235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "无机楼南翼",
+        "source_way": "993015146",
+        "license": "ODbL-1.0",
+        "scene_x": 102.5,
+        "scene_z": 164,
+        "width_m": 45,
+        "depth_m": 20,
+        "note": "Approximate simplified scene footprint; not a surveyed building polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.4161735529272,
+              39.968734054653254
+            ],
+            [
+              116.41670101082377,
+              39.968734054653254
+            ],
+            [
+              116.41670101082377,
+              39.968554392418255
+            ],
+            [
+              116.4161735529272,
+              39.968554392418255
+            ],
+            [
+              116.4161735529272,
+              39.968734054653254
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
